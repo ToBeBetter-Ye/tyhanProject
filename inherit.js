@@ -64,10 +64,10 @@ console.log(son)
 //     this.age = 66
 // }
 // Father.prototype.getName = function () {
-//     console.log(this.name)
+//     
 // }
 // class Son extends Father {
 //     construtor (x) {
 //         super('哈哈') // super('哈哈')  <=> Fatehr.call(this,'哈哈')
-//     }
+//     }   
 // }
